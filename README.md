@@ -11,7 +11,7 @@
 ## Table of contents
 ### Java fundamentals
 1. String - "Hello, world".
-2. Conditions - > , < , >=, <=, ==, != .
+2. Conditions - > , < , >=, <=, ==, != 
 3. Statements - if/else, switch.
 4. Primitive - byte, short, int, long, float, double, boolean, char and test their edges.
 5. Loops - while loop and for loop.
