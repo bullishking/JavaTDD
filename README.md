@@ -10,19 +10,19 @@
 
 ## Table of contents
 ### Java fundamentals
-1. String - "Hello, world" 
-2. Conditions - > , < , >=, <=, ==, !=
-3. Statements - if/else, switch
+1. String - "Hello, world".
+2. Conditions - > , < , >=, <=, ==, != .
+3. Statements - if/else, switch.
 4. Primitive - byte, short, int, long, float, double, boolean, char and test their edges.
-5. Loops - while loop and for loop
-6. Exception - TBD    
-7. Design Pattern - TBD        
+5. Loops - while loop and for loop.
+6. Exception - TBD.    
+7. Design Pattern - TBD.        
 
 more...
 ### Code expected
 * Proper naming for variables, avoid using i,v,k...etc. The variable name should be self explanatory.
-* Proper names for files
-* Follow unit tests naming conventions - **MethodName_StateUnderTest_ExpectedBehavior**
+* Proper names for files.
+* Follow unit tests naming conventions - **MethodName_StateUnderTest_ExpectedBehavior**.
 
 ```
     String hello(String name) {
